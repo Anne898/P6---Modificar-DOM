@@ -1,0 +1,26 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 16px;
+}
+
+.box-gray {
+    background-color: rgb(83, 83, 83);
+}
+
+.blue {
+    background-color: rgb(111, 198, 233);
+}
+
+.red {
+    background-color: rgb(241, 58, 58);
+}
+
+.purple {
+    background-color: rgb(143, 75, 211);
+}
+
+.box-outline {
+    outline: 1px solid black;
+}
+
